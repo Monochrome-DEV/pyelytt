@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "doise"
+		},
+		{
+			"offsets": [
+				-80,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "doise"
+		},
+		{
+			"offsets": [
+				-80,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doise"
+		},
+		{
+			"offsets": [
+				-80,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doise"
+		},
+		{
+			"offsets": [
+				-80,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doise"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/doisepeddito",
+	"position": [
+		60,
+		400
+	],
+	"healthicon": "doise",
+	"flip_x": true,
+	"healthbar_colors": [
+		71,
+		156,
+		212
+	],
+	"camera_position": [
+		350,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 4,
+	"_editor_isPlayer": true
+}

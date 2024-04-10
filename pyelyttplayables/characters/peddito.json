@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-345
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "peddito",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-345
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "peddito",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-345
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "peddito",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-345
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "peddito",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-345
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "peddito",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/doisepeddito",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "peddito",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		38,
+		144
+	],
+	"camera_position": [
+		-170,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 6.49999999999999,
+	"_editor_isPlayer": false
+}

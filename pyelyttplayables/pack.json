@@ -1,0 +1,9 @@
+{
+	"name": "the pyelytt playables or something",
+	"description": "play music yippee!!!!\n\n\n\nremember to check the settings",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [139, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

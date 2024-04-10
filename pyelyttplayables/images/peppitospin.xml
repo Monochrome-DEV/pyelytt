@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peppitospin.png">
+<SubTexture name="spin0000" x="176" y="0" width="73" height="61" frameX="-9" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0001" x="109" y="0" width="67" height="62" frameX="-13" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0002" x="0" y="63" width="34" height="62" frameX="-26" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0003" x="0" y="0" width="65" height="63" frameX="-14" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0004" x="34" y="63" width="68" height="62" frameX="-11" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0005" x="102" y="63" width="37" height="62" frameX="-27" frameY="-34" frameWidth="81" frameHeight="94" />
+<SubTexture name="spin0006" x="65" y="0" width="44" height="63" frameX="-22" frameY="-34" frameWidth="81" frameHeight="94" />
+</TextureAtlas>

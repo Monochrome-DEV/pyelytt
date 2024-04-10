@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="handz.png">
+<SubTexture name="handing0000" x="940" y="494" width="470" height="135" frameX="0" frameY="-30" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0001" x="940" y="356" width="470" height="138" frameX="0" frameY="-31" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0002" x="940" y="187" width="470" height="169" frameX="0" frameY="-11" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0003" x="940" y="0" width="470" height="187" frameX="0" frameY="-4" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0004" x="470" y="0" width="470" height="188" frameX="0" frameY="-4" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0005" x="470" y="188" width="470" height="188" frameX="0" frameY="-4" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0006" x="0" y="411" width="470" height="188" frameX="0" frameY="-4" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0007" x="470" y="411" width="470" height="188" frameX="0" frameY="-3" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0008" x="0" y="220" width="470" height="191" frameX="0" frameY="-3" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0009" x="0" y="599" width="470" height="188" frameX="0" frameY="-5" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0010" x="470" y="599" width="470" height="188" frameX="0" frameY="-5" frameWidth="460" frameHeight="200" />
+<SubTexture name="handing0011" x="0" y="0" width="470" height="220" frameX="0" frameY="0" frameWidth="460" frameHeight="210" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"pedditofnfreal",
+			"peddito",
+			[
+				122,
+				38,
+				77
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "uh oh u used the bfg",
+	"weekName": "peddito fnf real",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
